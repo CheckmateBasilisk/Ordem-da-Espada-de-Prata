@@ -105,6 +105,11 @@ sínodo
 profano
 -->
 
+
+<!--
+TODO: arrumar uma tradução pra Insight
+-->
+
 # A Ordem da Espada de Prata
 
 ## Prólogo: Uma noite de verão
@@ -133,7 +138,7 @@ Neste módulo, os personagens dos jogadores (PJ) pertencem a uma misteriosa orde
 
 PJs brandirão espadas prateadas, exorcizarão demônios e expulsarão bruxas, mas mais importante, terão sua convicção e bússola moral testados. Afinal de contas, as coisas não são tão preto-no-branco quanto o clero gostaria de acreditar.
 
-Faça o Juramento. Empunhe sua espada. Acenda seu incenso. A vigília não acaba ao amanhecer.
+Faça o Juramento. Acenda seu incenso. Empunhe sua espada. A vigília não acaba ao amanhecer.
 
 ## Parte 1: Ambientação
 
@@ -160,7 +165,11 @@ O sistema de governo é uma monarquia bastante centralizada.
 * Condes governam condados, que são subdivididos em Baronatos.
 * Barões governam baronatos, que são a menor subdivisão.
 
-Um baronato contém um punhado de vilarejos e a terra entre eles e uma cidade, na qual reside o barão. Baronatos podem ser cruzados a cavalo, de ponta a ponta, em um dia. Condados funcionam parecido, mas a cidade principal é maior e possui um castelo. Ducados são bem maiores (um país tem entre 15 e 30 duques) e suas sedes são grandes cidades muradas, castelos suntuosos e cortes famosas. A realeza vive na campital e de lá governa o reino. Todos os títulos costumam ser hereditários.
+Hierarquia Suserano-Vassalo
+Rei -> Duque -> Conde -> Barão
+
+
+Um baronato contém um punhado de vilarejos, a terra entre eles, e uma cidade, na qual reside o barão. Baronatos podem ser cruzados a cavalo, de ponta a ponta, em um dia. Condados funcionam parecido, mas a cidade principal é maior e possui um castelo. Ducados são bem maiores (um país tem entre 15 e 30 duques) e suas sedes são grandes cidades muradas, castelos suntuosos e cortes famosas. A realeza vive na capital e de lá governa o reino. Todos os títulos costumam ser hereditários.
 
 Dica para o Mestre: Cortes e cenários urbanos são excelentes oportunidades para histórias com bastante interação social, como investigações, negociações importantes ou missões secretas. Para histórias mais voltadas para a caça, regiões mais afastadas e rurais são ideais.
 
@@ -174,29 +183,56 @@ A estrutura eclesiástica se mescla com o governo secular, de modo que chefes re
 
 <!--"Papa" -> Cardeal -> Arcebispo -> Bispo-->
 
-* Um rei governa o país, que é subdividido em Ducados.
-* Duques governam ducados, que são subdivididos em Condados.
-* Condes governam condados, que são subdivididos em Baronatos.
-* Barões governam baronatos, que são a menor subdivisão.
+* Análog ao Rei, o Sumo Sacerdote é a autoridade máxima.
+* Análogo aos Duques, Cardeais servem o Sumo Sacerdote diretamente.
+* Análogo a Condes, Arcebispos servem Cardeais.
+* Análogo a Barões, Bispos servem Arcebispos.
 
-Um baronato contém um punhado de vilarejos e a terra entre eles e uma cidade, na qual reside o barão. Baronatos podem ser cruzados a cavalo, de ponta a ponta, em um dia. Condados funcionam parecido, mas a cidade principal é maior e possui um castelo. Ducados são bem maiores (um país tem entre 15 e 30 duques) e suas sedes são grandes cidades muradas, castelos suntuosos e cortes famosas. A realeza vive na campital e de lá governa o reino. Todos os títulos costumam ser hereditários.
+<!--TODO: escrever isso aqui direito-->
 
 ### Beatricismo
 #### Beatriz, A Dama Penitente
 #### O Mastim Negro Além do Horizonte
-#### O Cruzado Rubro
+
+O Grande Inimigo, O Príncipe das Mentiras, o Enganador. Muitos são os títulos daquele que não se deve invocar o nome. A Ordem, contudo, se refere a ele por um mais antigo: O Mastim Negro.
+
+Uma das primeiras aparições do arquidemônio, antagonista do bem e da justiça, foi um grande cão negro, de dentes abundantes e afiados, e olhos vermelhos como a Voragem Ardente. Ele se esconde nas entranhas da terra e vãos do assoalho, em olhares tortos e palavras impuras, logo ali, e aqui também, sempre esperando para tentar e corromper. O uivo de um cão selvagem é sempre mau agouro para qualquer caçador.
+
+Seus acólitos mais fervorosos, conta a Ordem, são amaldiçoados com enormes e ferozes formas lupinas, sangue fervente, e terríveis garras que fatiam carne, dilaceram ossos, rompem tendões e retalham aço. Enfrentar os lupinos é enfrentar o Mastim Negro. Este também é seu dever. <!--TODO: esse último período vale a pena?-->
+
 #### A Voragem Avérnea
+
+Vórtice das Chamas, Voragem Ardente, Abismo Eterno. O destino final das almas que recusaram a expiação comprada com o sangue de Beatriz. Contam os tomos sagrados que o pós-morte para aqueles que se desviam do caminho é um eterno tormento flamejante.
+
+#### O Cruzado Rubro
+
+Convicto e mal guiado, um guerreiro santo dos mais condecorados partiu em cruzada para resgatar Beatriz das garras do grande antagonista. Depois de enormes provações e pesares, no deserto encontrou a boca para as terras avernais. Um cão negro, o príncipe das mentiras disfarçado, o guiou para as entranhas da terra, convencendo-o a alimentar a lanterna com a chama da própria alma.
+
+<!--TODO: escrever esse mito aqui-->
+
+#### A Ordem
+sete moedas de cobre, sete paus de incenso
+#### Os Caçadores
+Caçadores do Interstício, Andarilhos da Mortalha, Legião da Meia-Noite
+
+
 ## Parte 2: Sistemas e Revisões
 ### Sistema Básico
 ### Ficha de Personagem
 ### Criando um Caçador
+### Insight, Habilidades e Feitiços
+### Milagres, Maldições e Stigmatas
+### Morte
+### Personagens do Mestre
 ## Parte 3: Premissa, Tons e Temas
+### Regulando Expectativas
+### Um Papo Sobre Violência
+### Sangue é Tudo
 ### Realista vs Gótico
 ### Sombrio vs Miserável
-### Sangue é Tudo
 ### Destino e Dever
-### Moralidade Cinza
 ### Amarga Esperança
+### Moralidade Cinza
 ### In Media Res
 ## Epílogo: Uma manhã de inverno
 
