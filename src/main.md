@@ -190,6 +190,8 @@ Devoção, sangue e aço o levaram até a dama, que recusou seu resgate. Alertou
 
 sete moedas de cobre, sete paus de incenso são o único pagamento que aceitam. Guiados pelo Testamento Secreto de Beatriz,
 
+<!--TODO:escrever isso-->
+
 #### Os Caçadores
 
 Caçadores do Interstício, Andarilhos da Mortalha, Legionários da Meia-Noite. Títulos e honorários para bestas amaldiçoadas e sedentas que se recusam a morrer: Vampiros. Diferente de seus pares selvagens, Caçadores buscam redenção.
@@ -208,7 +210,7 @@ Este módulo pressupõe uma ambientação medieval-fantástica sombria.
 
 * Magia é muito rara. Aqueles da Ordem existem no limiar entre feitiçaria profana e milagre divino.
 * Tecnologia é anacrônica. O nível tecnológico é algo entre o medieval e o vitoriano. A essência e estética gótica são mais importantes.
-* O Sobrenatural existe. A maioria nunca o encontra cara a cara. Crendices populares afastam ameaças em áreas rurais enquanto cidades muradas crescem.
+* O Sobrenatural existe. A maioria o encontra uma ou duas vezes durante a vida toda. Crendices populares afastam ameaças em áreas rurais enquanto cidades muradas crescem.
 * Governos são pano de fundo para histórias. A população alienada é condenada a financiar monarquias cada vez mais centralizadas e lutar em guerras distantes.
 * A Vida ainda vale a pena ser vivida, apesar das sombras. O potencial para a bondade da humanidade se manifesta, especialmente, nos pequenos gestos.
 
@@ -268,7 +270,7 @@ Dica para o Mestre: Estas duas posições tipificam bem a natureza mundana e div
 Sempre que PJs tentam ações, os jogadores rolam Dados de Ação (DA) e o mestre rola os Dados de Desafio (DD). Se o maior resultado dentre os DA for maior ou igual ao maior resultado dos DD, a ação é bem sucedida.
 
 Jogadores rolam 1 ou mais dados dependendo de quão capacitados seus personagens estão para a tarefa:
-* 1 DA por tentar a Ação.
+* 1 DA por tentar a ação.
 * + 1 DA por possuir uma Habilidade relevante.
 * + 1 DA por utilizar equipamento apropriado.
 
@@ -306,11 +308,70 @@ Caçadores começam com 10 Sangue, 1 equipamento de caçador, 1 relíquia, 1 mem
 
 <!--TODO: fazer tabelas -->
 
+Equipamentos de Caçador:
+1. Água benta
+2. Espada de prata
+3. Balestra com dardos de prata
+4. asdf
+5. asdf
+6. asdf
+7. asdf
+8. asdf
+9. asdf
+10. asdf
+11. asdf
+12. asdf
+
+Relíquias:
+1. Tomo sagrado com litanias secretas
+2. Grimório ocultista
+3. Crânio de um necromante (ainda pode falar)
+4. Espada de prata sagrada
+5. Frasco com água benta centenária
+6. Incensário com ervas medicinais
+7. Ba
+8. asdf
+9. asdf
+10. asdf
+11. asdf
+12. asdf
+
+Mementos são pequenos objetos sem valor que têm alguma relação desconhecida com a vida do Caçador antes de se tornar um vampiro.
+
+Mementos:
+1. Boneca da infância
+2. Pingente com um retrato
+3. Lenço com iniciais bordadas
+4. Faca de entalhar
+5. Peça de xadrez (1-torre, 2-cavalo, 3-bispo, 4-rei, 5-rainha, 6-peão)
+6. Cachecol confortável perfumado
+7. Carta com assinatura ilegível
+8. Espelho de rosto
+9. Diário misterioso escrito em código
+10. Foto ou pequeno retrato de outra pessoa.
+11. asdf
+12. asdf
+
 ### Revelações, Habilidades e Feitiços
 
-Como na obra original, Vampiros podem receber Revelações e junto delas Habilidades ou feitiços de sangue.
+Como na obra original, Vampiros podem receber Revelações e junto delas Habilidades ou Feitiços de Sangue.
 
-Caçadores estão limitados a 6 Revelações e tornar-se Selvagem faz com que perca uma, junto com a Habilidade ou Feitiço de Sangue associado. Revelações perdidas deste modo ainda contam para o máximo de 6!
+Caçadores estão limitados a 6 Revelações e tornar-se Selvagem faz com que percam uma, junto com a Habilidade ou Feitiço de Sangue associado. Revelações perdidas deste modo ainda contam para o máximo de 6.
+
+
+Feitiços de Sangue:
+1. Forma animal
+2. Sugestão hipnótica
+3. Força sobrehumana
+4. asdf
+5. asdf
+6. asdf
+7. asdf
+8. asdf
+9. asdf
+10. asdf
+11. asdf
+12. asdf
 
 ### Milagres, Maldições e Stigmatas
 
@@ -340,7 +401,7 @@ Depois que um Caçador é destruído a Ordem emite uma indulgência póstuma, as
 Personagens do Mestre (PDMs) possuem as seguintes características:
 
 * **Nome e Aparência**
-* **Vida** é uma abstração da saúde física do personagem. Se chegar a zero ele morrerá.
+* **Vida** é uma abstração da saúde física do personagem. Se chegar a zero ele morrerá. Dano causa perda de sangue em vampiros e perda de vida nas demais criaturas.
 * **Equipamentos** carregados pelo personagem.
 * **Níveis de Desafio** são capacidades do personagem em Dados de Dificuldade (DD). Coisas como Combate 1, Social 3 indicam que um personagem é incompetente quando se trata de violência física, mas pode ser alguém muito difícil de se ler.
 * **Ambições** são uma ou duas coisas que o personagem deseja ou necessita fervorosamente. Servem para relembrar o mestre de como interpretá-los e podem ser utilizados como ferramenta de troca ou coerção pelos PJ. Descobrir as ambições de um PJ pode ser algo muito valioso.
